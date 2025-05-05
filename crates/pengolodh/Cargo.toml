@@ -1,0 +1,8 @@
+[package]
+name = "pengolodh"
+edition.workspace = true
+version.workspace = true
+
+[dependencies]
+bpaf = "0.9.19"
+burn = { git = "https://github.com/tracel-ai/burn", version = "0.18.0", features = ["rocm"] }
