@@ -1,0 +1,6 @@
+[submodule "SillyTavern"]
+	path = tools/SillyTavern
+	url = git@github.com:OmegaLambda1998/SillyTavern.git
+[submodule "koboldcpp-rocm"]
+	path = tools/koboldcpp-rocm
+	url = git@github.com:OmegaLambda1998/koboldcpp-rocm.git
